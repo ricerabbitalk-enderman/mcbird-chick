@@ -1,5 +1,5 @@
 ## Get input state.
-execute store result score #chick:enchantment/fireball/-wooden_sword|pressed -- run function egg:input/-pressed
+execute store result score #chick:enchantment/fireball/-wooden_sword|pressed -- run function egg:input/-triggered
 
 ## Dangerous wither skull.
 execute if score #chick:enchantment/fireball/-wooden_sword|pressed -- matches 5.. \

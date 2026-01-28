@@ -1,5 +1,5 @@
 ## Get input state.
-execute store result score #chick:enchantment/fireball/-iron_sword|pressed -- run function egg:input/-pressed
+execute store result score #chick:enchantment/fireball/-iron_sword|pressed -- run function egg:input/-triggered
 execute store result score #chick:enchantment/fireball/-iron_sword|pushed -- run function egg:input/-pushed
 execute store result score #chick:enchantment/fireball/-iron_sword|released -- run function egg:input/-released
 
