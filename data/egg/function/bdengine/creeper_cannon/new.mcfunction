@@ -1,0 +1,3 @@
+# this data is created via BDEngine.
+# Processed by mcbird/bde2egg.js.
+return run summon block_display ~ ~ ~ {Tags:["ignis","__uninitialized"],Passengers:[{id:"minecraft:item_display",item:{id:"minecraft:creeper_spawn_egg",count:1},item_display:"none",transformation:[1f,0.000001f,0.000001f,0.000001f,0.000001f,1f,0.000001f,0.000001f,0.000001f,0.000001f,1f,0.00625f,0.000001f,0.000001f,0.000001f,1f],Tags:["creeper_cannon_0"]}]}

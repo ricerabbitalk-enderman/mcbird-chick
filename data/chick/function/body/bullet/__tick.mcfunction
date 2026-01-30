@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:block_display,tag=chick.body.bullet] unless function chick:body/bullet/__/-update run function chick:body/bullet/__/-delete

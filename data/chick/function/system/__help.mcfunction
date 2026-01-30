@@ -2,7 +2,7 @@
 # Caption.
 tellraw @s [ \
   {text:"## "}, \
-  {translate:"chick.help.caption",fallback:"chick, the sample codes for chick."}, \
+  {translate:"chick.help.caption",fallback:"chick, the sample codes for egg."}, \
 ]
 # Disable.
 tellraw @s [ \
@@ -22,7 +22,7 @@ tellraw @s [ \
 # Get "fireball" enchantement.
 tellraw @s [ \
   {text:"  110: "}, \
-  {translate:"chick.help.command.unload",fallback:"get \"fireball\" enchanted book."}, \
+  {translate:"chick.help.command.unload",fallback:"get \"creeper_cannon\" enchanted book."}, \
 ]
 # Get wooden artifact sword.
 tellraw @s [ \

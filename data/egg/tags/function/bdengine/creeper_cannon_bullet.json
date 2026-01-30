@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    "egg:bdengine/creeper_cannon_bullet/new"
+  ]
+}

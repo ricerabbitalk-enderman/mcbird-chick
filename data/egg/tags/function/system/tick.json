@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "chick:body/bullet/__tick",
+    "chick:body/cannon/__tick",
+    "chick:carrier/missile/__tick"
+  ]
+}
