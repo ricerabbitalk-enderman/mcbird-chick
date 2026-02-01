@@ -1,6 +1,6 @@
 # mcbird-chick
 
-## chick, sample of egg ver. 1.5.x.
+## chick, sample of egg ver. 1.5.2.
 
 [English](README.md) / [日本語](README-jp.md)
 

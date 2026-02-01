@@ -9,10 +9,12 @@ execute unless data storage egg:pack/call << \
 ## New.
 function #egg:bdengine/creeper_cannon
 ## Initialize.
+data modify storage egg:model/-show <<looks set from storage egg:bdengine creeper_cannon
 data modify storage egg:animation/-set << set value {repeat:0,path:creeper_cannon-summon}
 execute as @e[tag=__uninitialized] \
   if function egg:model/-enable \
   if function egg:model/-rotate \
+  if function egg:model/-show \
   if function egg:animation/-enable \
   if function egg:animation/-set \
   if function egg:animation/-play \

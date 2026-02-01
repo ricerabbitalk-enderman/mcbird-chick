@@ -1,7 +1,9 @@
 {
   "replace": false,
   "values": [
+    "egg:bdengine/creeper_cannon/looks",
     "egg:bdengine/creeper_cannon/summon",
+    "egg:bdengine/creeper_cannon_bullet/looks",
     "egg:bdengine/creeper_cannon_bullet/launch"
   ]
 }
